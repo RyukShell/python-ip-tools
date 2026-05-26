@@ -1,0 +1,4 @@
+2026-05-23 01:00:09 | INFO     | api_gateway:validar_ip | [VALIDATE] IP recibida: 8.8.8.8
+2026-05-23 01:01:35 | INFO     | api_gateway:analizar_red | [ANALYZE] CIDR recibido: 192.168.1.0/24
+2026-05-26 09:06:21 | INFO     | api_gateway:validar_ip | [VALIDATE] IP recibida: 1.1.1.1
+2026-05-26 09:06:52 | INFO     | api_gateway:validar_ip | [VALIDATE] IP recibida: 1.1.1.1
